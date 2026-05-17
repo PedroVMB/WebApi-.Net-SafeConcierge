@@ -1,0 +1,6 @@
+@SafeConcierge.Api_HostAddress = http://localhost:5115
+
+GET {{SafeConcierge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
