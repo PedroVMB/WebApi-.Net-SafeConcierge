@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeConcierge.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d04d755c2e6ebe5647f58bc8256c1388555854a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ef1ab2c9882abf17846268c62ebef8d6f9a74e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeConcierge.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeConcierge.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

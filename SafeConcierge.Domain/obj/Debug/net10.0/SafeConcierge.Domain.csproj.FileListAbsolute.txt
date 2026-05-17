@@ -1,0 +1,13 @@
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/bin/Debug/net10.0/SafeConcierge.Domain.deps.json
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/bin/Debug/net10.0/SafeConcierge.Domain.dll
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/bin/Debug/net10.0/SafeConcierge.Domain.pdb
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.csproj.AssemblyReference.cache
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.AssemblyInfoInputs.cache
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.AssemblyInfo.cs
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.csproj.CoreCompileInputs.cache
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.sourcelink.json
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.dll
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/refint/SafeConcierge.Domain.dll
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/SafeConcierge.Domain.pdb
+/Users/pedro/dev/projects/Safe Concierge/Backend/SafeConcierge.Domain/obj/Debug/net10.0/ref/SafeConcierge.Domain.dll
